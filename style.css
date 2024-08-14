@@ -1,0 +1,159 @@
+  *{
+    margin: 0;    
+}
+
+.gap{
+    text-decoration: none;
+    list-style: none;
+}
+.pap{
+    display: flex;
+    padding: 10px;
+    gap: 2rem;
+    margin-left: 15px;
+}
+.box-hold{
+    position: absolute;
+    width: 100%;
+    top: 10rem;
+}
+.background-image{
+    background-image: url(./Screenshot_25-7-2024_121236_.jpeg);
+    width: 100%;
+    position: relative;
+    height: 50vh;
+    background-repeat: no-repeat;
+}
+.map{
+    display: flex;
+    gap: 10px;
+}
+.box{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-bottom: 5rem;
+}
+.profile{
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+    background-position: 67;
+    border-style:dotted;
+}
+  
+.second-section{
+    background-image: url(WhatsApp\ Image\ 2024-08-09\ at\ 16.31.29_37ae2601utyuyuy.jpg);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+    background-position: center;
+    color: white;
+}
+.second-section{
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 600px;
+    background-color: rgba(12, 20, 255, 0.5);
+    background-blend-mode: overlay;
+}
+.upper-text{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    margin-bottom: 2rem;
+}
+.p-text{
+    margin-bottom: 10rem;
+}
+.box-second{
+    background-color: gray;
+    width: 100%;
+}
+.google-p{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    margin-bottom: 3rem;
+    padding: 1rem;
+}
+.goggle-img{
+    height: 20vh;
+    padding: 30px;
+}
+.goggle-text{
+    display: flex;
+    background-color: #fff;
+    width: 50%;
+    margin: 25px;
+    border-radius: 10px;
+}
+.text-section{
+    padding: 2rem;
+}
+.lorem-text{
+    margin-bottom: 1rem;
+    margin-left: -1rem;
+}
+.ceo,.inc,.jan{
+    margin-bottom: 10px;
+}
+.box2{
+    display: flex;
+}
+.download{
+    background-repeat: no-repeat;
+    background-image: url(WhatsApp\ Image\ 2024-08-09\ at\ 16.31.29_37ae2601utyuyuy.jpg);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    flex-direction: column;
+}
+.ipsum{
+    margin-bottom: 20px;
+}
+.load{
+    width: 6rem;
+    height: 30px;
+    border-radius: 15px;
+    border: none;
+    background-color: #87e628;
+}
+.portpic{
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+.Contact{
+    /* display: flex; */
+    gap: 3rem;
+    margin-left: 5rem;
+}
+.cont{
+    margin-bottom: 2rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.input-section{
+    display: flex;
+    gap: 3rem;
+}
+.label-1{
+    display: flex;
+    flex-direction: column;
+}
+.btn{
+    border-radius: 10px;
+    width: 30%;
+    border: none;
+    background-color: #87e628;
+    padding: 10px;
+}
